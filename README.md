@@ -1,6 +1,12 @@
 
 
-# 🌾🚀 **Crop & Fertilizer Recommendation System** 🌱  
+# 🌾🚀 **Crop & Fertilizer Recommendation System** 🌱
+---
+
+## 🎨 **UI Preview**
+![image](https://github.com/user-attachments/assets/c7324d13-65a6-44a0-90f1-f92606835926)<div align="center">
+
+---
 
 ✨ **AI-Powered Smart Agriculture Solution** ✨  
 💡 *Predict the Best Crop & Fertilizer for Maximum Yield!*  
@@ -35,12 +41,6 @@
 🔹 **Streamlit** – for an interactive, user-friendly web app  
 🔹 **Joblib/Pickle** – for ML model deployment  
 🔹 **Matplotlib & Seaborn** – for visual insights  
-
----
-
-## 🎨 **UI Preview**
-![image](https://github.com/user-attachments/assets/c7324d13-65a6-44a0-90f1-f92606835926)<div align="center">
-
 
 ---
 
